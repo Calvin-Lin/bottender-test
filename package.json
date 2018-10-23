@@ -1,0 +1,17 @@
+{
+  "name": "bottender-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bottender": "0.15.8",
+    "bottender-compose": "^0.12.5",
+    "dotenv": "^6.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
